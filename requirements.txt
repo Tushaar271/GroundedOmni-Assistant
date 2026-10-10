@@ -1,0 +1,9 @@
+# LangChain 0.3 legacy retrievers require Python 3.10-3.13; Python 3.14 is incompatible.
+streamlit>=1.38.0
+langchain>=0.3.0,<1.0
+langgraph>=0.2.0,<1.0
+langchain-openai>=0.2.0,<1.0
+langchain-chroma>=0.2.0,<1.0
+pdfplumber>=0.11.0
+pymupdf>=1.24.0
+pillow>=10.0.0
